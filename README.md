@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para falar comigo ou me conhecer melhor fale comigo nas redes a abaixo!
  
 <div> 
   <a href="https://www.instagram.com/ruancorreias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
